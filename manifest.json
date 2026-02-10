@@ -1,7 +1,7 @@
 {
   "name": "DEALKART",
   "short_name": "Dealkart",
-  "start_url": ".",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#0d0dde",
   "theme_color": "#2209c2",
